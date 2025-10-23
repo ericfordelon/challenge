@@ -3,19 +3,11 @@
         xmlns:coveo="https://www.coveo.com/en/company/about-us">
     <url>
         <loc>https://www.partstown.com/modelManual/CHA-MOY-DFM7-5_spm.pdf?v=1699368240605</loc>
-        <lastmod>2024-11-07</lastmod>
-        <changefreq>monthly</changefreq>
-        <priority>0.8</priority>
+        <lastmod>2025-10-23</lastmod>
         <coveo:metadata>
-            <documentType>Product Manual</documentType>
-            <manufacturer>Champion</manufacturer>
-            <modelNumber>CHA-MOY-DFM7-5</modelNumber>
-            <category>Service and Parts Manual</category>
-            <fileType>PDF</fileType>
-            <language>en</language>
-            <publishDate>2023-11-07</publishDate>
-            <version>1699368240605</version>
-            <title>Champion Moyno DFM7-5 Parts and Service Manual</title>
+            <manufacturer>Moyer Diebel</manufacturer>
+            <modelNumber>DFM7-5</modelNumber>
+            <title>Moyer Diebel DFM7-5 Parts and Service Manual</title>
         </coveo:metadata>
     </url>
 </urlset>
