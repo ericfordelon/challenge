@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+        xmlns:coveo="https://www.coveo.com/en/company/about-us">
+    <url>
+        <loc>https://www.partstown.com/modelManual/CHA-MOY-DFM7-5_spm.pdf?v=1699368240605</loc>
+        <lastmod>2024-11-07</lastmod>
+        <changefreq>monthly</changefreq>
+        <priority>0.8</priority>
+        <coveo:metadata>
+            <documentType>Product Manual</documentType>
+            <manufacturer>Champion</manufacturer>
+            <modelNumber>CHA-MOY-DFM7-5</modelNumber>
+            <category>Service and Parts Manual</category>
+            <fileType>PDF</fileType>
+            <language>en</language>
+            <publishDate>2023-11-07</publishDate>
+            <version>1699368240605</version>
+        </coveo:metadata>
+    </url>
+</urlset>
